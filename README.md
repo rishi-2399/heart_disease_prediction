@@ -82,6 +82,3 @@ Designed for **non-technical users**, including students, clinicians, and resear
 | Visualization / UI | Streamlit |
 | Model Persistence | Pickle |
 
----
-
-## 📁 Project Structure
